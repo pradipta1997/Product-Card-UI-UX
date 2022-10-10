@@ -1,0 +1,8 @@
+Responsive e-Commerce Product Card
+
+Program Language : HTML5, CSS3, VanillaJS
+Code Editor	 : Visual Studio 2020
+Font Face	 : Sans-Serif
+Image Source	 : pngimg.com & Google
+Music By	 : Disney OST
+Category	 : Front-End
